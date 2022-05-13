@@ -1,0 +1,45 @@
+p {
+    font-size: 20px;
+    
+}
+
+.cabecalho-moda {
+    border: 30px;
+    padding: 20px;    
+    background-color: #bb86fc;
+    color: white;
+}
+
+.camisa-moda {
+    border: 30px;
+    padding: 20px;    
+    background-color: #424250;
+    color: white;
+}
+
+.tenis-moda {
+    border: 30px;
+    padding: 20px;    
+    background-color: #424250;
+    color: white;
+}
+
+
+.cabecalho-casa {
+    padding: 20px;
+    background-color: #00C4B4;
+    color: white;
+}
+
+.sofa-info {
+    border: 30px;
+    padding: 20px;    
+    background-color: #424250;
+    color: white;
+}
+
+.tv-info {`
+    padding: 20px;    
+    background-color: #424250;
+    color: white;
+}
