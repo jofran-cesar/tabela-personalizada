@@ -1,6 +1,6 @@
 p {
-    font-size: 20px;
-    
+    font-size: 25px;
+        
 }
 
 .cabecalho-moda {
@@ -38,7 +38,8 @@ p {
     color: white;
 }
 
-.tv-info {`
+.tv-info {
+    border: 30px;
     padding: 20px;    
     background-color: #424250;
     color: white;
